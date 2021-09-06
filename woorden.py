@@ -1,0 +1,21 @@
+word_list = [
+    'appelsap',
+    'groen',
+    'logitech',
+    'oreo',
+    'iphone',
+    'ruimte',
+    'paard',
+    'schaap',
+    'regen',
+    'teen',
+    'studers',
+    'huis',
+    'joey',
+    'keuken',
+    'zwemmen',
+    'testen',
+    'bloem',
+    'vogel',
+    'laptop'
+]
